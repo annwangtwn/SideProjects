@@ -1,7 +1,7 @@
 # ALPHA Camp 作品集資料庫
 
 <details id=0 open>
-<summary><h2>Welcome</h2></summary>
+<summary><h2>😄Welcome</h2></summary>
   
   _由 ALPHA Camp 學生/校友開發、經業界 Senior 工程師/助教審核的作品集選集_  
   _歡迎企業、雇主蒞臨參觀，認識 ALPHA Camp 團隊與學生_  
@@ -16,9 +16,9 @@
 </details>
 
 <details id=1>
-<summary><h2>作品集資料庫</h2></summary>
+<summary><h2>🗃️作品集資料庫</h2></summary>
   
-  ### 社群平台/論壇
+  ### 🔶社群平台/論壇
   - 💎**Simple Twitter** | [AnnW](https://www.linkedin.com/in/annwangtaiwan) | [Demo](https://yhosutun2490.github.io/Simple-Twitter-Natsu/login) | [Github](https://github.com/weizi0328/twitter-api-2020)
   具備 CRUD 簡易版社交網站
   - **Simple Facebook** | [Susan](https://www.linkedin.com/in/annwangtaiwan) | [Demo](https://yhosutun2490.github.io/Simple-Twitter-Natsu/login) | [Github](https://github.com/weizi0328/twitter-api-2020)
@@ -26,13 +26,13 @@
   - **One Night Friend** | [Peter](https://www.linkedin.com/in/annwangtaiwan) | [Demo](https://yhosutun2490.github.io/Simple-Twitter-Natsu/login) | [Github](https://github.com/weizi0328/twitter-api-2020)
   段暫交友平台
   
-  ### 電商
+  ### 🔶電商
   - 💎**YberEats** | [Panda](https://www.linkedin.com/in/annwangtaiwan) | [Demo](https://yhosutun2490.github.io/Simple-Twitter-Natsu/login) | [Github](https://github.com/weizi0328/twitter-api-2020)
   外送平台
   - **蝦Pi** | [Shrimp](https://www.linkedin.com/in/annwangtaiwan) | [Demo](https://yhosutun2490.github.io/Simple-Twitter-Natsu/login) | [Github](https://github.com/weizi0328/twitter-api-2020)
   B2C 電商
 
-  ### 遊戲
+  ### 🔶遊戲
   - 💎**Pokemon Battle** | [Piachu](https://www.linkedin.com/in/annwangtaiwan) | [Demo](https://yhosutun2490.github.io/Simple-Twitter-Natsu/login) | [Github](https://github.com/weizi0328/twitter-api-2020)
   寶可夢對戰遊戲
   - **格鬥天王 98** | [Athena](https://www.linkedin.com/in/annwangtaiwan) | [Demo](https://yhosutun2490.github.io/Simple-Twitter-Natsu/login) | [Github](https://github.com/weizi0328/twitter-api-2020)
@@ -50,7 +50,7 @@
 </details>
 
 <details id=3>
-<summary><h2>近期 Demo 活動</h2></summary>
+<summary><h2>📆近期 Demo 活動</h2></summary>
   
   - **5/25 THU. 18:30-20:00 遊戲類**
   本次邀請 [Elaine](https://www.linkedin.com/in/annwangtaiwan)如何用她的[怪獸對打機](https://yhosutun2490.github.io/Simple-Twitter-Natsu/login)作品集進入遊戲鬍子公司，**最後 30 分鐘開放提問**，歡迎透過 [怪獸對打機](https://yhosutun2490.github.io/Simple-Twitter-Natsu/login) 報名！
@@ -58,7 +58,7 @@
 </details>
 
 <details id=4>
-<summary><h2>我也想上傳！</h2></summary>
+<summary><h2>⬆️我也想上傳！</h2></summary>
   
   - ### 上傳規則
     - 你好
