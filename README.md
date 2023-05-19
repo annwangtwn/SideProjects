@@ -44,6 +44,7 @@
 <summary><h2>🔰新手友善區</h2></summary>
   
   - **電商觀摩作品集** | [Nathan](https://www.linkedin.com/in/annwangtaiwan) | [Demo](https://yhosutun2490.github.io/Simple-Twitter-Natsu/login) | [Github](https://github.com/weizi0328/twitter-api-2020)
+  - [想不到主題要做什麼嗎？來點靈感吧！](https://drive.google.com/file/d/1TBWSrtpG51DRBaSOaJ2GkR9mIAomZAnG/view)
   - [如何定義作品 MVP 規格](https://www.linkedin.com/in/annwangtaiwan) (感謝 Pin 提供)
   
 </details>
@@ -56,3 +57,15 @@
   
 </details>
 
+<details id=4>
+<summary><h2>我也想上傳！</h2></summary>
+  
+  - ### 上傳規則
+    - 你好
+    - 我很好
+  
+  - ### 上傳步驟
+    - [步驟圖文版](https://github.com/skills/github-pages/blob/main/README.md?plain=1)
+    - [其他資源](https://github.com/skills/github-pages/blob/main/README.md?plain=1)
+  
+</details>
