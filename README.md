@@ -52,7 +52,7 @@
 <details id=3>
 <summary><h2>📆近期 Demo 活動</h2></summary>
   
-  - **5/25 THU. 18:30-20:00 遊戲類**
+  - **5/25 THU. 18:30-20:00 遊戲類**  
   本次邀請 [Elaine](https://www.linkedin.com/in/annwangtaiwan)如何用她的[怪獸對打機](https://yhosutun2490.github.io/Simple-Twitter-Natsu/login)作品集進入遊戲鬍子公司，**最後 30 分鐘開放提問**，歡迎透過 [怪獸對打機](https://yhosutun2490.github.io/Simple-Twitter-Natsu/login) 報名！
   
 </details>
