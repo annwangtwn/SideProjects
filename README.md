@@ -41,6 +41,10 @@
 </details>
 
 <details id=1>
-<summary><h2>作品集資料庫</h2></summary>
+<summary><h2>🔰新手友善區</h2></summary>
+  
+  - **電商觀摩作品集** | [Nathan](https://www.linkedin.com/in/annwangtaiwan) | [Demo](https://yhosutun2490.github.io/Simple-Twitter-Natsu/login) | [Github](https://github.com/weizi0328/twitter-api-2020)
+  - [如何定義作品 MVP 規格](https://www.linkedin.com/in/annwangtaiwan) (感謝 Pin 提供)
+  
 </details>
 
