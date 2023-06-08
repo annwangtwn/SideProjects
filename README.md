@@ -10,7 +10,7 @@
   
   ### 目錄說明
   - **作品集資料庫**：依照８大主題分類，有💎表示 AC 嚴選系列，每月 1 日更新
-  - **新手友善區**：如果你剛開始製作、不太確定主題的同學參考，讓你有效率完成自己的 MVP 版本作品
+  - **新手友善區**：集結新手完成 Side Project 所需要的範例與文章，幫助你完成 MVP 作品集😃
   - **近期Demo活動**：每月依照不同主題，邀請同學線上展示自己的作品集、使用套件，模擬面試展示流程
   - **我也想上傳！**：想分享自己的作品集嗎？歡迎參考本區！
   
@@ -20,14 +20,13 @@
 <summary><h2>🗃️作品集資料庫</h2></summary>
   
   - [**社群平台 / 論壇**](https://github.com/annwangtwn/SideProjects/blob/main/README-SNS.md)
-  - [**電商平台**](https://www.linkedin.com/in/annwangtaiwan) **(零售/外送/購票/行程)**
-  - [**部落格 / CMS (內容管理)**](https://www.linkedin.com/in/annwangtaiwan)
-  - [**形象網站 / 官方網站**](https://www.linkedin.com/in/annwangtaiwan)
-  - [**影音 / 串流平台**](https://www.linkedin.com/in/annwangtaiwan) **(YouTube, Netflix, KKstream)**
-  - [**生活工具類**](https://www.linkedin.com/in/annwangtaiwan)
-  - [**遊戲**](https://www.linkedin.com/in/annwangtaiwan)
-  - [**其他主題**](https://www.linkedin.com/in/annwangtaiwan)
-  - [**新手友善區**](https://www.linkedin.com/in/annwangtaiwan) 🔰
+  - [**電商平台**](https://github.com/annwangtwn/SideProjects/blob/main/README-EC.md) **(零售/外送/購票/行程)**
+  - [**部落格 / CMS (內容管理)**](https://github.com/annwangtwn/SideProjects/commit/7fc28affd272c2e31fd4495940629a0103d61d8f)
+  - [**形象網站 / 官方網站**](https://github.com/annwangtwn/SideProjects/blob/main/README-Brand.md)
+  - [**影音 / 串流平台**](https://github.com/annwangtwn/SideProjects/blob/main/README-Stream.md) **(YouTube, Netflix, KKstream)**
+  - [**生活工具類**](https://github.com/annwangtwn/SideProjects/blob/main/README-Tool.md)
+  - [**遊戲**](https://github.com/annwangtwn/SideProjects/blob/main/README-Game.md)
+  - [**其他主題**](https://github.com/annwangtwn/SideProjects/blob/main/README-Others.md)
   
 </details>
 
@@ -35,6 +34,7 @@
 <summary><h2>🔰新手友善區</h2></summary>
   
   - [想不到主題要做什麼嗎？來點靈感吧！](https://drive.google.com/file/d/1TBWSrtpG51DRBaSOaJ2GkR9mIAomZAnG/view)
+  - [**新手友善區**](https://github.com/annwangtwn/SideProjects/blob/main/README-Beginners.md) 🔰
   
 </details>
 
