@@ -9,7 +9,7 @@
   維護團隊將不定期與企業分享此頁面，企業將有機會透過此頁面作品認識你！
   
   ### 目錄說明
-  - **作品集資料庫**：依照８大主題分類，有💎表示 AC 嚴選系列，每月 1 日更新
+  - **作品集資料庫**：依照 8 大主題分類，有💎表示 AC 嚴選系列，每月 1 日更新
   - **新手友善區**：集結新手完成 Side Project 所需要的範例與文章，幫助你完成 MVP 作品集😃
   - **近期Demo活動**：每月依照不同主題，邀請同學線上展示自己的作品集、使用套件，模擬面試展示流程
   - **我也想上傳！**：想分享自己的作品集嗎？歡迎參考本區！
@@ -34,7 +34,7 @@
 <summary><h2>🔰新手友善區</h2></summary>
   
   - [想不到主題要做什麼嗎？來點靈感吧！](https://drive.google.com/file/d/1TBWSrtpG51DRBaSOaJ2GkR9mIAomZAnG/view)
-  - [**新手友善區**](https://github.com/annwangtwn/SideProjects/blob/main/README-Beginners.md) 🔰
+  - [**新手友善 作品集範例**](https://github.com/annwangtwn/SideProjects/blob/main/README-Beginners.md) 🔰
   
 </details>
 
