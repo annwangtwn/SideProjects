@@ -34,7 +34,7 @@
 <summary><h2>🔰新手友善區</h2></summary>
   
   - [想不到主題要做什麼嗎？來點靈感吧！](https://drive.google.com/file/d/1TBWSrtpG51DRBaSOaJ2GkR9mIAomZAnG/view)
-  - [**新手友善 作品集範例**](https://github.com/annwangtwn/SideProjects/blob/main/README-Beginners.md) 🔰
+  - [**新手友善 作品集範例**](https://github.com/annwangtwn/SideProjects/blob/main/README-Beginners.md) 😄
   
 </details>
 
