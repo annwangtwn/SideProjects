@@ -19,7 +19,7 @@
 <details id=1>
 <summary><h2>🗃️作品集資料庫</h2></summary>
   
-  - [**社群平台 / 論壇**](https://www.linkedin.com/in/annwangtaiwan)
+  - [**社群平台 / 論壇**](https://github.com/annwangtwn/SideProjects/blob/main/README-SNS.md)
   - [**電商平台**](https://www.linkedin.com/in/annwangtaiwan) **(零售/外送/購票/行程)**
   - [**部落格 / CMS (內容管理)**](https://www.linkedin.com/in/annwangtaiwan)
   - [**形象網站 / 官方網站**](https://www.linkedin.com/in/annwangtaiwan)
