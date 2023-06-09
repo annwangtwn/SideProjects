@@ -10,7 +10,8 @@
   - [**作品規格**](https://github.com/annwangtwn/SideProjects/blob/main/Contributing.md#%E4%BD%9C%E5%93%81%E8%A6%8F%E6%A0%BC)： 我們期待你的作品集符合業界 Review 的水準，請務必符合規格後再發 PR 唷！
   - [**提交步驟**](https://github.com/annwangtwn/SideProjects/blob/main/Contributing.md#%E6%8F%90%E4%BA%A4%E6%AD%A5%E9%A9%9F)：對於 Github、pull request 不太熟悉的同學請放心，跟著步驟操作肯定沒問題👌
   - [**AC 嚴選審核標準**](https://github.com/annwangtwn/SideProjects/blob/main/Contributing.md#ac-%E5%9A%B4%E9%81%B8%E5%AF%A9%E6%A0%B8%E6%A8%99%E6%BA%96)：**💎AC 嚴選系列作品集**經由 senior 工程師認證，對於規格也有更多的要求，歡迎熱愛挑戰的你參與！</br>
-  - 若有任何問題，都歡迎到 **AC Discord** [**Side Project 討論版**](https://discord.com/channels/925294714217967647/945251914868727858)發文討論喔！</br>
+
+✋若有任何問題，都歡迎到 **AC Discord** [**Side Project 討論版**](https://discord.com/channels/925294714217967647/945251914868727858)發文討論喔！</br>
   
 </details>
 
@@ -34,17 +35,20 @@
 <details id=2>
   <summary><h2>提交步驟</h2></summary>
   
+  #### 1️⃣ Fork AC SideProjects
   - 到 [AC SideProjects](https://github.com/annwangtwn/SideProjects)，Fork AC 專案至自己的 GitHub Repo
-  - 溫馨提醒🎗️以下操作是在 **自己的 GitHub**
+  
+  #### 2️⃣ 自己 GitHub 上的操作
   - 選擇編輯所屬主題的 README，例如：電商相關 → 編輯 README-EC。
   - **作品觀摩** 中，使用 markdown 加入自己的專案連結
     - 前後端分離
-      - 作品集名稱：簡介 | Github：前端 link、後端 link | Doc link (optional)
+      - 作品集名稱：簡介 | Github：前端 link、後端 link | Doc link (optional)</br>
         前端作者：Frontend's Linkedin，後端作者：Backend's Linkedin
     - 全端
-      - 作品集名稱：簡介 | Github link | Doc link (optional)
+      - 作品集名稱：簡介 | Github link | Doc link (optional)</br>
         作者：Your linkedin
-  - 溫馨提醒🎗️以下操作是在 [**AC 的 GitHub**](https://github.com/annwangtwn/SideProjects)
+  
+  #### 3️⃣ [**AC GitHub**](https://github.com/annwangtwn/SideProjects) 上的操作 
   - 按下 **Pull requests**
   - 按下 **New pull request** 按鈕
   - 按下 **compare across forks**，左側選 **AC SideProjects** 的 main，右側選 **自己 Repo** 的 branch
