@@ -11,7 +11,7 @@
   - [**提交步驟**](https://github.com/annwangtwn/SideProjects/blob/main/Contributing.md#%E6%8F%90%E4%BA%A4%E6%AD%A5%E9%A9%9F)：對於 Github、pull request 不太熟悉的同學請放心，跟著步驟操作肯定沒問題👌
   - [**AC 嚴選審核標準**](https://github.com/annwangtwn/SideProjects/blob/main/Contributing.md#ac-%E5%9A%B4%E9%81%B8%E5%AF%A9%E6%A0%B8%E6%A8%99%E6%BA%96)：**💎AC 嚴選系列作品集**經由 senior 工程師認證，對於規格也有更多的要求，歡迎熱愛挑戰的你參與！</br>
 
-✋若有任何問題，都歡迎到 **AC Discord** [**Side Project 討論版**](https://discord.com/channels/925294714217967647/945251914868727858)發文討論喔！</br>
+✋若有任何問題，都歡迎到 **AC Discord** **Side Project 討論版** 發文討論喔！</br>
   
 </details>
 
