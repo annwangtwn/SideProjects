@@ -17,6 +17,8 @@
 <details id=1>
   <summary><h2>作品規格</h2></summary>
   
+  我們期待你的作品集符合業界 Review 的水準，因此訂定了專案的規格，請確認符合規格後再發 PR 唷！</br>
+  
   - 作品集須上傳到自己的 GitHub Page
   - Repo 須建立 README 檔案，內容包含
     - 專案簡介
@@ -24,11 +26,35 @@
     - Demo 網址 (若有)
     - 安裝執行步驟
     - 聯繫方式
-  - *️⃣資源參考：[GitHub About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)、[README-Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) 以及 AC 學姐小儒的 [GitHub Page](https://github.com/HsiaooooooJu/parkit)
+
+  🔗資源參考：[GitHub About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)、[README-Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)、AC 學姐小儒的 [GitHub Page](https://github.com/HsiaooooooJu/parkit)
+  
   </details>
   
 <details id=2>
   <summary><h2>提交步驟</h2></summary>
+  
+  - 到 [AC SideProjects](https://github.com/annwangtwn/SideProjects)，Fork AC 專案至自己的 GitHub Repo
+  - 溫馨提醒🎗️以下操作是在 **自己的 GitHub**
+  - 選擇編輯所屬主題的 README，例如：電商相關 → 編輯 README-EC。
+  - **作品觀摩** 中，使用 markdown 加入自己的專案連結
+    - 前後端分離
+      - 作品集名稱：簡介 | Github：前端 link、後端 link | Doc link (optional)
+        前端作者：Frontend's Linkedin，後端作者：Backend's Linkedin
+    - 全端
+      - 作品集名稱：簡介 | Github link | Doc link (optional)
+        作者：Your linkedin
+  - 溫馨提醒🎗️以下操作是在 [**AC 的 GitHub**](https://github.com/annwangtwn/SideProjects)
+  - 按下 **Pull requests**
+  - 按下 **New pull request** 按鈕
+  - 按下 **compare across forks**，左側選 **AC SideProjects** 的 main，右側選 **自己 Repo** 的 branch
+    這時候底下會出現你新增的內容
+  - 按下 **Create pull request** 按鈕
+  - 主旨、內容如下
+    - Title 要寫 OOXX
+    - Comment 要證明你是 AC 的學生
+  - 按下 **Create pull request** 後，我們就會收到你的 PR 啦！  
+  
 </details>
   
 <details id=3>
