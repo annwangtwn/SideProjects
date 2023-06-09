@@ -1,4 +1,4 @@
-Title：專案主題/你的暱稱
+Title：專案主題/你的暱稱</br>
 範例：Game/AnnW
 
 - [ ] 我的專案 GitHub 有 README 完整的內容
