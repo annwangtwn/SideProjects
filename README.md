@@ -12,8 +12,11 @@
   - **作品集資料庫**：依照 8 大主題分類，有💎表示 AC 嚴選系列，每月 1 日更新
   - **新手友善區**：集結新手完成 Side Project 所需要的範例與文章，幫助你完成 MVP 作品集😃
   - **近期Demo活動**：每月依照不同主題，邀請同學線上展示自己的作品集、使用套件，模擬面試展示流程
-  - **我也想上傳！**：想成為 Contributor 分享自己的作品集嗎？歡迎參考本區！
-  
+  - **我也想分享 Side Project**：想成為 Contributor 分享自己的作品集嗎？歡迎參考本區！
+
+  ### Side Project 專屬討論頻道
+  我們在 Discord 也有專屬討論頻道喔！如果有任何問題，歡迎到 [**Side Project 討論版**](https://discord.com/channels/925294714217967647/945251914868727858) 提問、討論。</br>
+ 
 </details>
 
 <details id=1>
@@ -48,16 +51,7 @@
 </details>
 
 <details id=4>
-<summary><h2>⬆️我也想上傳！</h2></summary>
+<summary><h2>⬆️我也想分享 Side Project</h2></summary>
   
-  - ### 上傳規格
-    - 你好
-    - 我很好
-  
-  - ### 上傳步驟
-    - [步驟圖文版](https://github.com/skills/github-pages/blob/main/README.md?plain=1)
-    - [其他資源](https://github.com/skills/github-pages/blob/main/README.md?plain=1)
-  
-  - ### 審核標準
-  
+  謝謝你願意分享的心，請點 [**這裡**](https://github.com/annwangtwn/SideProjects/blob/main/Contributing.md) 了解更多 🥰
 </details>
