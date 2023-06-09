@@ -54,9 +54,10 @@
   - 按下 **compare across forks**，左側選 **AC SideProjects** 的 main，右側選 **自己 Repo** 的 branch
     這時候底下會出現你新增的內容
   - 按下 **Create pull request** 按鈕
-  - 主旨、內容如下
-    - Title 要寫 OOXX
-    - Comment 要證明你是 AC 的學生
+  - 標題、內容
+    - 標題寫 **專案主題/你的暱稱**，例如：Game/AnnW
+    - 內容有做到的，在引號內加上「**X**」
+    - AC Profile 連結 (待補)
   - 按下 **Create pull request** 後，我們就會收到你的 PR 啦！  
   
 </details>
