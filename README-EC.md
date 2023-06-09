@@ -28,6 +28,9 @@
 
   - [**Test Ticket Online**](https://yhosutun2490.github.io/Simple-Twitter-Natsu/home)：購票平台 | Github：[前端](https://github.com/hackergrrl/art-of-readme)、[後端](https://github.com/hackergrrl/art-of-readme)</br>
   前端作者：[1866Fion](https://www.linkedin.com/in/annwangtaiwan)、[Ruth](https://www.linkedin.com/in/annwangtaiwan)，後端作者：[WillIAM](https://www.linkedin.com/in/annwangtaiwan)</br>
+
+  - [**Test PChouse**](https://yhosutun2490.github.io/Simple-Twitter-Natsu/home)：復刻 PChome 介面購物平台 | [Github](https://github.com/hackergrrl/art-of-readme) | [Doc](https://drive.google.com/drive/folders/1t--uGLeKO4qIbAM6itcXYNzo3CEVYJco)</br>
+  作者：[Christie](https://www.linkedin.com/in/annwangtaiwan)</br>
   
 </details>
 
