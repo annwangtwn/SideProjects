@@ -15,7 +15,7 @@
   - **我也想分享 Side Project**：想成為 Contributor 分享自己的作品集嗎？歡迎參考本區！
 
   ### Side Project 專屬討論頻道
-  我們在 Discord 也有專屬討論頻道喔！如果有任何問題，歡迎到 [**Side Project 討論版**](https://discord.com/channels/925294714217967647/945251914868727858) 提問、討論。</br>
+  我們在 Discord 也有專屬討論頻道喔！如果有任何問題，歡迎到 **Side Project 討論版** 提問、討論。</br>
  
 </details>
 
