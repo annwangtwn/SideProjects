@@ -12,7 +12,7 @@
   - **作品集資料庫**：依照 8 大主題分類，有💎表示 AC 嚴選系列，每月 1 日更新
   - **新手友善區**：集結新手完成 Side Project 所需要的範例與文章，幫助你完成 MVP 作品集😃
   - **近期Demo活動**：每月依照不同主題，邀請同學線上展示自己的作品集、使用套件，模擬面試展示流程
-  - **我也想上傳！**：想分享自己的作品集嗎？歡迎參考本區！
+  - **我也想上傳！**：想成為 Contributor 分享自己的作品集嗎？歡迎參考本區！
   
 </details>
 
@@ -54,7 +54,7 @@
     - 你好
     - 我很好
   
-  - ### 上傳流程
+  - ### 上傳步驟
     - [步驟圖文版](https://github.com/skills/github-pages/blob/main/README.md?plain=1)
     - [其他資源](https://github.com/skills/github-pages/blob/main/README.md?plain=1)
   
